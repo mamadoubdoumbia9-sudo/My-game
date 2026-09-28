@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.whalert.app-mergeReleaseResources-58:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/root/.gradle/caches/8.11.1/transforms/76f62d5fecc1c224fc9baaacda8f7fd5/transformed/appcompat-1.7.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

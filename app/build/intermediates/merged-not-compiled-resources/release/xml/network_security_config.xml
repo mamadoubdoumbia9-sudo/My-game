@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- SECURITY: cleartext traffic is globally disabled. Every network call the app
+     makes must be HTTPS/TLS. No localhost, no LAN IPs, no exceptions. -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <!-- System CAs only; certificate chain validation is enforced by OkHttp -->
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>
