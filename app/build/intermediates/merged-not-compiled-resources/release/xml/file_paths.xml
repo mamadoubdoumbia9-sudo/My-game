@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Evidence files shared ONLY when the user explicitly attaches them to an email -->
+    <no-backup-path name="evidence" path="evidence/" />
+</paths>

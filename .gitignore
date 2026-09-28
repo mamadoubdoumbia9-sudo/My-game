@@ -1,0 +1,14 @@
+# Build and Gradle artifacts
+build/
+.gradle/
+local.properties
+
+# IDE and Editor files
+.idea/
+*.iml
+*.iws
+/out/
+
+# OS generated files
+.DS_Store
+Thumbs.db
